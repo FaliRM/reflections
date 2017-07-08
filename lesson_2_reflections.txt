@@ -4,3 +4,9 @@ How is the staging area different from the working directory and the repository?
 
 How can you use the staging area to make sure you have one commit per logical change?
 Podemos usar la staging area para asegurarnos de que hay un "commit" por cambio lógico comparándolo constantemente con las modificaciones que realizamos en el directorio o con los anteriores commit.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Algunas situaciones cuando las ramas pueden ser de ayuda en mantener el historial organizado es en 
+
+How do the diagrams help you visualize the branch structure?
+Los diagramas ayudan a visualizar la estructura de ramas puesto que tiene esta forma y es posible ver que commit viene de cada sitio.
