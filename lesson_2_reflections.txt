@@ -10,3 +10,5 @@ Algunas situaciones cuando las ramas pueden ser de ayuda en mantener el historia
 
 How do the diagrams help you visualize the branch structure?
 Los diagramas ayudan a visualizar la estructura de ramas puesto que tiene esta forma y es posible ver que commit viene de cada sitio.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
